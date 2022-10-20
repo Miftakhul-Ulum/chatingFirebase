@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/aplikasi/app/src/main/res/drawable/bg_blue.xml" value="0.1395" />
+        <entry key="..\:/aplikasi/app/src/main/res/drawable/bg_white.xml" value="0.1395" />
+        <entry key="..\:/aplikasi/app/src/main/res/drawable/ic_back.xml" value="0.2" />
+        <entry key="..\:/aplikasi/app/src/main/res/drawable/ic_search.xml" value="0.1395" />
+        <entry key="..\:/aplikasi/app/src/main/res/drawable/rounded_grey.xml" value="0.1395" />
+        <entry key="..\:/aplikasi/app/src/main/res/layout/activity_chat.xml" value="0.22" />
+        <entry key="..\:/aplikasi/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/aplikasi/app/src/main/res/layout/activity_register.xml" value="0.1408514492753623" />
+        <entry key="..\:/aplikasi/app/src/main/res/layout/item_pesan.xml" value="0.22" />
+        <entry key="..\:/aplikasi/chatApp/app/src/main/res/drawable/ic_search.xml" value="0.185" />
+        <entry key="..\:/aplikasi/chatApp/app/src/main/res/drawable/my_msg.xml" value="0.12" />
+        <entry key="..\:/aplikasi/chatApp/app/src/main/res/drawable/opo_msg.xml" value="0.185" />
+        <entry key="..\:/aplikasi/chatApp/app/src/main/res/layout/activity_chat.xml" value="0.1921875" />
+        <entry key="..\:/aplikasi/chatApp/app/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="..\:/aplikasi/chatApp/app/src/main/res/layout/item_chat.xml" value="0.22" />
+        <entry key="..\:/aplikasi/chatApp/app/src/main/res/layout/item_pesan.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

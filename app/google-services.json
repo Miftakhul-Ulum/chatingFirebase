@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30144648760",
+    "firebase_url": "https://aplikasi-pesan-f5d67-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aplikasi-pesan-f5d67",
+    "storage_bucket": "aplikasi-pesan-f5d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30144648760:android:df2a7005e6ff23038e78cd",
+        "android_client_info": {
+          "package_name": "com.project105.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30144648760-078plg2nemqnqdgdufduup2bqkb1vefs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project105.chatapp",
+            "certificate_hash": "da66615515127b7c0dedf49ba8345cc3c94bec37"
+          }
+        },
+        {
+          "client_id": "30144648760-fq35sblo07sbi271vee62m78m9g2vibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzHAYazOCi-MyA1-SlSKaKGBegrE1sA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30144648760-fq35sblo07sbi271vee62m78m9g2vibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
